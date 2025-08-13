@@ -1,0 +1,15 @@
+[project]
+name = "ComfyUI-ImageTransformer"
+description = "ComfyUI wrapper nodes for Image Transformer"
+version = "0.0.1"
+license = {file = "LICENSE"}
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/teamalpha-ai/comfyui-image-transformer"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "teamalpha-ai"
+DisplayName = "ComfyUI-ImageTransformer"
+Icon = ""
